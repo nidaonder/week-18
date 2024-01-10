@@ -1,0 +1,56 @@
+body {
+    background-color: beige;
+    color: #FFB996;
+    font-family: sans-serif;
+    text-align: center;
+    height: 100%;
+}
+
+.jumbotron {
+    background-color: #FFB996;
+    color: beige;
+}
+
+.mybutton {
+    background-color: #D9EDBF;
+    color: #FFB996;
+}
+
+.mybutton:hover {
+    background-color: #FFB996;
+    color: beige;
+}
+
+.nav {
+    display: block;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.nav a {
+    padding: 5px 20px;
+    color: #FFB996;
+    margin: 0 20px;
+    border-radius: 40%;
+}
+
+footer {
+    background-color: #FDFFAB;
+    text-decoration: none;
+}
+
+footer a {
+    color: #FFB996;
+}
+
+footer a:hover {
+    color: #FFB996;
+}
+
+.mycard {
+    background-color: beige;
+}
+
+h4{
+    color: #AFC8AD;
+}
